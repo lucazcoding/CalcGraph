@@ -13,7 +13,7 @@ Uma calculadora com interface gráfica desenvolvida em **C#** utilizando **Windo
 - **C#**
 - **Windows Forms**
 - **.NET Framework**
-#<br>
+<br>
 <img src="https://i.imgur.com/MM98IU6.png" width="200" height="350"/>
 
 
