@@ -8,3 +8,13 @@ C:\CursoC#\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
 C:\CursoC#\Teste\Teste\obj\Debug\Teste.exe
 C:\CursoC#\Teste\Teste\obj\Debug\Teste.pdb
 C:\CursoC#\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\bin\Debug\Teste.exe.config
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\bin\Debug\Teste.exe
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\bin\Debug\Teste.pdb
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\CalculadoraGrafica.csproj.AssemblyReference.cache
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\Teste.Form1.resources
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\Teste.Properties.Resources.resources
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\CalculadoraGrafica.csproj.GenerateResource.cache
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\CalculadoraGrafica.csproj.CoreCompileInputs.cache
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\Teste.exe
+C:\CursoC#\CalculadoraGrafica\CalculadoraGrafica\obj\Debug\Teste.pdb
