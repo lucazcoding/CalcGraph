@@ -18,17 +18,6 @@ namespace Teste
         public Form1()
         {
             
-            //acessando a struct size
-            //Size tamanho = new Size()
-            //tamanho.Width = 400;
-            //tamanho.Height = 200;
-
-
-            InitializeComponent();
-            //this.Text = "Lucas Gomes";
-            //this.Size = new Size(400, 200);
-            //this.ControlBox = true;
-            
         }
 
         private void Form1_Load(object sender, EventArgs e)
