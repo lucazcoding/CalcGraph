@@ -1,6 +1,7 @@
 # CalcGraph
 
 Uma calculadora com interface gráfica desenvolvida em **C#** utilizando **Windows Forms**.
+<br>**Para utilizar é só abrir a pasta CalcGraph-master e clicar no atalho CalcGraph.exe**
 
 ## 📌 Funcionalidades
 - 📌 Operações básicas: Soma, subtração, multiplicação e divisão
