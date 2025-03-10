@@ -15,7 +15,7 @@ Uma calculadora com interface gráfica desenvolvida em **C#** utilizando **Windo
 - **Windows Forms**
 - **.NET Framework**
 <br>
-<img src="https://i.imgur.com/MM98IU6.png" width="200" height="350"/>
+<img src="https://i.imgur.com/o98tjaA.png" width="220" height="350"/>
 
 
 Desenvolvido com 💻 por Lucas Gomes. Conecte-se comigo no GitHub! 🚀
