@@ -27,6 +27,7 @@ namespace Teste
 
 
             txtResultado.ReadOnly = true;
+            
 
         }
 

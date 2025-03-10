@@ -97,9 +97,9 @@
             this.botao7.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.botao7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botao7.ForeColor = System.Drawing.Color.Aquamarine;
-            this.botao7.Location = new System.Drawing.Point(122, 551);
+            this.botao7.Location = new System.Drawing.Point(122, 549);
             this.botao7.Name = "botao7";
-            this.botao7.Size = new System.Drawing.Size(95, 94);
+            this.botao7.Size = new System.Drawing.Size(95, 98);
             this.botao7.TabIndex = 1;
             this.botao7.Text = "7";
             this.botao7.UseVisualStyleBackColor = false;
@@ -110,9 +110,9 @@
             this.botao8.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.botao8.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botao8.ForeColor = System.Drawing.Color.Aquamarine;
-            this.botao8.Location = new System.Drawing.Point(223, 551);
+            this.botao8.Location = new System.Drawing.Point(223, 549);
             this.botao8.Name = "botao8";
-            this.botao8.Size = new System.Drawing.Size(95, 94);
+            this.botao8.Size = new System.Drawing.Size(95, 98);
             this.botao8.TabIndex = 2;
             this.botao8.Text = "8";
             this.botao8.UseVisualStyleBackColor = false;
@@ -123,9 +123,9 @@
             this.botao9.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.botao9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botao9.ForeColor = System.Drawing.Color.Aquamarine;
-            this.botao9.Location = new System.Drawing.Point(324, 551);
+            this.botao9.Location = new System.Drawing.Point(324, 549);
             this.botao9.Name = "botao9";
-            this.botao9.Size = new System.Drawing.Size(95, 94);
+            this.botao9.Size = new System.Drawing.Size(95, 98);
             this.botao9.TabIndex = 3;
             this.botao9.Text = "9";
             this.botao9.UseVisualStyleBackColor = false;
@@ -136,7 +136,7 @@
             this.botao6.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.botao6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.botao6.ForeColor = System.Drawing.Color.Aquamarine;
-            this.botao6.Location = new System.Drawing.Point(324, 451);
+            this.botao6.Location = new System.Drawing.Point(324, 449);
             this.botao6.Name = "botao6";
             this.botao6.Size = new System.Drawing.Size(95, 94);
             this.botao6.TabIndex = 6;
@@ -225,7 +225,7 @@
             // btnSomar
             // 
             this.btnSomar.BackColor = System.Drawing.Color.Black;
-            this.btnSomar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSomar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSomar.ForeColor = System.Drawing.Color.Lime;
             this.btnSomar.Location = new System.Drawing.Point(425, 490);
             this.btnSomar.Name = "btnSomar";
@@ -241,7 +241,7 @@
             this.txtOperadores.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtOperadores.Cursor = System.Windows.Forms.Cursors.Default;
             this.txtOperadores.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtOperadores.ForeColor = System.Drawing.SystemColors.Info;
+            this.txtOperadores.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.txtOperadores.Location = new System.Drawing.Point(21, 27);
             this.txtOperadores.MinimumSize = new System.Drawing.Size(20, 4);
             this.txtOperadores.Name = "txtOperadores";
@@ -251,16 +251,15 @@
             this.txtOperadores.TabStop = false;
             this.txtOperadores.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtOperadores.TextChanged += new System.EventHandler(this.txtOperadores_TextChanged);
-            this.txtOperadores.MouseEnter += new System.EventHandler(this.txtOperadores_MouseEnter);
             // 
             // btnIgual
             // 
             this.btnIgual.BackColor = System.Drawing.Color.Black;
-            this.btnIgual.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIgual.ForeColor = System.Drawing.Color.Lime;
+            this.btnIgual.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIgual.ForeColor = System.Drawing.Color.DeepSkyBlue;
             this.btnIgual.Location = new System.Drawing.Point(425, 575);
             this.btnIgual.Name = "btnIgual";
-            this.btnIgual.Size = new System.Drawing.Size(149, 72);
+            this.btnIgual.Size = new System.Drawing.Size(149, 70);
             this.btnIgual.TabIndex = 15;
             this.btnIgual.Text = "=";
             this.btnIgual.UseVisualStyleBackColor = false;
@@ -271,9 +270,9 @@
             this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Aquamarine;
-            this.button1.Location = new System.Drawing.Point(21, 551);
+            this.button1.Location = new System.Drawing.Point(21, 549);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(95, 94);
+            this.button1.Size = new System.Drawing.Size(95, 98);
             this.button1.TabIndex = 16;
             this.button1.Text = ",";
             this.button1.UseVisualStyleBackColor = false;
@@ -348,7 +347,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.CausesValidation = false;
-            this.ClientSize = new System.Drawing.Size(596, 673);
+            this.ClientSize = new System.Drawing.Size(596, 687);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnPotencia);
             this.Controls.Add(this.button3);
