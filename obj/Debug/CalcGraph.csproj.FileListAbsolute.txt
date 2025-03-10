@@ -1,0 +1,10 @@
+C:\CursoC#\Teste\Teste\bin\Debug\Teste.exe.config
+C:\CursoC#\Teste\Teste\bin\Debug\Teste.exe
+C:\CursoC#\Teste\Teste\bin\Debug\Teste.pdb
+C:\CursoC#\Teste\Teste\obj\Debug\CalcGraph.csproj.AssemblyReference.cache
+C:\CursoC#\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\CursoC#\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\CursoC#\Teste\Teste\obj\Debug\CalcGraph.csproj.GenerateResource.cache
+C:\CursoC#\Teste\Teste\obj\Debug\CalcGraph.csproj.CoreCompileInputs.cache
+C:\CursoC#\Teste\Teste\obj\Debug\Teste.exe
+C:\CursoC#\Teste\Teste\obj\Debug\Teste.pdb

@@ -212,6 +212,14 @@ namespace Teste
                    
 
                 }
+                if(!txtOperadores.Text.Contains("+") && !txtOperadores.Text.Contains("-") && !txtOperadores.Text.Contains("x") && !txtOperadores.Text.Contains("÷") && !txtOperadores.Text.Contains("^"))
+                { 
+
+                    txtOperadores.Text = txtResultado.Text + " =";
+                    txtResultado.Text = "";
+                    return;
+                
+                }
 
                 txtResultado.Text = resultado.ToString();
                 txtOperadores.Text = " ";
@@ -307,7 +315,7 @@ namespace Teste
         {
             numeros.Clear();
             numeros.Add(txtResultado.Text);
-            txtOperadores.Text += txtResultado.Text + " ^";
+            txtOperadores.Text = txtResultado.Text + " ^";
             txtResultado.Text = " ";
 
           
@@ -338,7 +346,7 @@ namespace Teste
         {
             
             numeros.Add(txtResultado.Text);
-            txtOperadores.Text += txtResultado.Text + " ÷";
+            txtOperadores.Text = txtResultado.Text + " ÷";
             txtResultado.Text = " ";
 
         }
